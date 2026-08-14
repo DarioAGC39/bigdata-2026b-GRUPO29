@@ -7,6 +7,7 @@
 ## Integrantes
 
 | Nombre | Correo institucional | Usuario de GitHub |
+
 |Dario Andres Guerrero Cantillo|dario.guerrero@est.iudigital.co|DarioAGC39|
 | | | |
 | | | |
